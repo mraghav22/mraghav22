@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raghavendra.M, Firmware Engineer.
 - 👀 I’m interested in new technologies, new programming languages etc..
-- 🌱 I’m currently learning react, c++, system design..
+- 🌱 I’m currently learning AI/ML..
 - 📫 you can reach me @raghavendra080.m@gmail.com or mragha2211@gmail.com
 
 <!---
